@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.form {
+    background-color: #FFFFFF;
+    width: 300px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+    margin-top: 80px;
+}
+
+body{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    background: #9289ed;
+}
+
+ h1 {
+     text-align: center;
+     padding-top: 30px;
+     
+ }
+ input {
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     border-bottom: 1px solid#7d7f80;
+     width: 280px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     font-size: 13px;
+      
+ }
+ .pass {
+     margin-top: 40px;
+     font-weight: bold;
+     font-size: 13px;
+ }
+ .user {
+     font-size: 13px;
+     font-weight: bold;
+ }
+
+ a {
+     padding-left: 180px;
+     font-size: 13px;
+ }
+ button{
+     border: none;
+     padding: 10px;
+     width: 95%;
+     margin-top: 30px;
+     border-radius: 25px;
+   background-image: linear-gradient(to bottom right, #45d9de , #c227cd);
+    color: white;
+
+ }
+ p{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 40px;
+ }
+ 
+ i {
+    border: 1px solid rgb(133, 26, 26);
+    width: 15px;
+    height: 15px;
+    padding: 7px;
+    border-radius: 50%;
+    margin: 6px;
+    border: none;
+ }
+
+ .icons {
+    margin-left: 80px;
+ }
+ .p2 {
+     padding-top: 50px;
+     margin-bottom: 0;
+     font-size: 10px;
+ }
+ .p3 {
+   margin-top: 0;
+   padding-bottom: 30px;
+   font-size: 10px;
+ }
